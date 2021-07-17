@@ -16,7 +16,7 @@
 > 
 > 使用方法：
 > 
-> php wenku8.php <BookID>
+> php wenku8.php <BookID>？
 > 
 > 命令示例：
 > 
